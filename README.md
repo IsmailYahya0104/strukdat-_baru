@@ -1,8 +1,2 @@
 # strukturdat
-# strukturdat
-# strukturdat
-# strukturdat
-# strukturdat
-# strukturdat
-# strukdat git init git add README.md git commit -m first commit git branch -m main git remote add origin git@github.com: IsmailYahya0104/strukdat.git git push -u origin main
-# strukdat-_baru
+![Image](https://github.com/user-attachments/assets/83570bc2-8f94-45ad-8535-87c59b1b1174)
